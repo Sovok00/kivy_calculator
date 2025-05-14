@@ -4,7 +4,7 @@
 
 ## Установка
 
-Клонируйте реп.:
+1. Клонируйте реп.:
 
    • https://github.com/Sovok00/kivy_calculator.git
    
