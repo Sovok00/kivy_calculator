@@ -5,8 +5,8 @@
 ## Установка
 
 1. Клонируйте реп.:
-   • https://github.com/Sovok00/kivy_calculator.git
-   • cd kivy_calculator
+   https://github.com/Sovok00/kivy_calculator.git
+   cd kivy_calculator
 
 2. Зависимости:
    • pip install -r requirements.txt
