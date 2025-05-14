@@ -5,6 +5,7 @@
 ## Установка
 
 Клонируйте реп.:
+
 https://github.com/Sovok00/kivy_calculator.git
 cd kivy_calculator
 
